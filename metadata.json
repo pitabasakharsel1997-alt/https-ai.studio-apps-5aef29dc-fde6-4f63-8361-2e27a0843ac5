@@ -1,0 +1,6 @@
+{
+  "name": "AI Video Generator",
+  "description": "Production-ready, all-in-one AI Video Generation platform with Reference Analysis Engine, Character Bible, automated scene orchestration, audio ducking, quality control, timeline editor, and real MP4 export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
